@@ -24,4 +24,6 @@ L'oeuvre est exposée dans une grande salle. Chaque écran est disposé de mani�
 <h1>COMPOSANTES ET TECHNIQUES</h1>
 L'oeuvre est composée de plusieurs documentaires filmés et projetés sur des écrans différents. Dans les documentaires, les acteurs sont vêtus de vêtements dans le style "années 60-90". <br>
 <br>
-
+<h1>ÉLÉMENTS NÉCESSAIRES À LA MISE EN EXPOSITION</h1>
+Les écrans de projections ainsi que les lumières étaient des éléments nécessaires à la mise en exposition de l'oeuvre. <br>
+<br>
