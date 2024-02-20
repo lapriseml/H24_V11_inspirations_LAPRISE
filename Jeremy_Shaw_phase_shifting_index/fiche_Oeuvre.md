@@ -1,4 +1,4 @@
-<h1>JEREMY SHAW</h1><br>
+<h1>JEREMY SHAW</h1>
 <h2>Phase Shifting Index</h2>
 //(PHOTO AFFICHE DE L'EXPOSITION)//
 Fonderie Darling <br>
