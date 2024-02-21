@@ -3,7 +3,7 @@
 <img src="medias/expo.png">
 Fonderie Darling <br>
 745 Rue Ottawa, Montréal QC H3C 1R8 <br>
-//(PHOTO DEVANT LE BUILDING)//
+<img src="medias/mahmoud_moi_porte.png">
 Date de la visite: 31/1/24 <br>
 <br>
 <h1>INFORMATIONS</h1>
