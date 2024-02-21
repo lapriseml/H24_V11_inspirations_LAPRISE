@@ -24,13 +24,16 @@ Source: [MAC](https://macm.org/en/exhibitions/jeremy-shaw/)
 <br>
 <h1>MISE EN ESPACE</h1>
 L'oeuvre est exposée dans une grande salle. Chaque écran est disposé de manière aléatoire dans la salle et occupe toute l'espace disponible. Des bancs sont placés sur un des côtés de la salle pour les spectateurs. <br>
+<img src="medias/plan.png">
 [Aperçu](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/1955251_cmontmorency_qc_ca/EWkHn2C-auJLpNJ3WchL7nkBwnz6C7jv_RLHLo5wI239Lw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&email=1955251%40cmontmorency.qc.ca&e=gtBy4d)
 <br>
 <h1>COMPOSANTES ET TECHNIQUES</h1>
 L'oeuvre est composée de plusieurs documentaires filmés et projetés sur des écrans différents. Dans les documentaires, les acteurs sont vêtus de vêtements dans le style "années 60-90". <br>
+<img src="medias/habits.png">
 <br>
 <h1>ÉLÉMENTS NÉCESSAIRES À LA MISE EN EXPOSITION</h1>
 Les écrans de projections ainsi que les lumières étaient des éléments nécessaires à la mise en exposition de l'oeuvre. <br>
+<img src="medias/lumiere.png">
 <br>
 <h1>EXPÉRIENCE VÉCUE</h1>
 L'oeuvre à laquelle nous avons été exposés ne m'a certainement pas laissée indifférente. J'ai spécialement apprécié l'approche sur les idéologies du passé et celles du présent. Je pense que cet expérience nous fait beaucoup réfléchir et nous poser certaines questions. J'ai aussi aimé comment l'oeuvre a été présentée, le fait de disperser les différentes composantes de celle-ci afin de nous faire déplacer pour les voir une à une. J'ai trouvé que cela nous donnait un rapport plus personnel avec l'oeuvre.<br>
