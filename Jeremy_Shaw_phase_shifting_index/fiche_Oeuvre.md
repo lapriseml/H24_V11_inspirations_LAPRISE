@@ -9,7 +9,7 @@ Date de la visite: 31/1/24 <br>
 <h1>INFORMATIONS</h1>
 Type d'exposition: intérieure <br>
 Titre de l'oeuvre: Phase Shifting Index <br>
-<img src="medias/sequence_1.png" width="200"> <img src="medias/sequence_2.png" width="200"> <img src="medias/sequence_4.png" width="200"> <img src="medias/sequence_5.png" width="200">
+<img src="medias/sequence_1.png" width="200"><img src="medias/sequence_2.png" width="200"><img src="medias/sequence_4.png" width="200"><img src="medias/sequence_5.png" width="200">
 Nom de l'artiste: Jeremy Shaw <br>
 Année de réalisation: 2020 <br>
 Type d'installation: immersive <br>
