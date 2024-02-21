@@ -1,7 +1,7 @@
 <h1>JEREMY SHAW</h1>
 <h2>Phase Shifting Index</h2>
 <img src="medias/expo.png">
-Source: [MAC](https://macm.org/en/exhibitions/jeremy-shaw/)
+Source: [MAC](https://macm.org/en/exhibitions/jeremy-shaw/) <br>
 <br>
 Fonderie Darling <br>
 745 Rue Ottawa, Montréal QC H3C 1R8 <br>
