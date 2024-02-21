@@ -13,6 +13,7 @@ Titre de l'oeuvre: Phase Shifting Index <br>
 Nom de l'artiste: Jeremy Shaw <br>
 Année de réalisation: 2020 <br>
 Type d'installation: immersive <br>
+[Aperçu](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/1955251_cmontmorency_qc_ca/ERmb_d85qvdFvlTXMMebfzAB4YderYE_GS_nO2l10Lg-CA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&email=1955251%40cmontmorency.qc.ca&e=sOwoZ5)
 <br>
 <h1>DESCRIPTION</h1>
 Vaste installation vidéo immersive à sept canaux, Phase Shifting Index est une rêverie parascientifique exaltante d’une grande ambition intellectuelle et artistique, et le point culminant des travaux récents de Shaw. Dans ce qui semble être une étude anthropologique d’un futur lointain, une narration commente de manière rétrospective l’émergence de nouvelles réalités déconcertantes sur sept écrans affichant ce qui s’avère être des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. Ces images sont captées dans les formats de l’époque – allant du film 16 mm au VHS en passant par le Hi-8. <br>
@@ -20,6 +21,7 @@ Source: [MAC](https://macm.org/en/exhibitions/jeremy-shaw/)
 <br>
 <h1>MISE EN ESPACE</h1>
 L'oeuvre est exposée dans une grande salle. Chaque écran est disposé de manière aléatoire dans la salle et occupe toute l'espace disponible. Des bancs sont placés sur un des côtés de la salle pour les spectateurs. <br>
+[Aperçu](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/1955251_cmontmorency_qc_ca/EWkHn2C-auJLpNJ3WchL7nkBwnz6C7jv_RLHLo5wI239Lw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&email=1955251%40cmontmorency.qc.ca&e=gtBy4d)
 <br>
 <h1>COMPOSANTES ET TECHNIQUES</h1>
 L'oeuvre est composée de plusieurs documentaires filmés et projetés sur des écrans différents. Dans les documentaires, les acteurs sont vêtus de vêtements dans le style "années 60-90". <br>
