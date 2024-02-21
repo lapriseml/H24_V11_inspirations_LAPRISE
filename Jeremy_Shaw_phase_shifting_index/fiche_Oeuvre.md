@@ -1,6 +1,6 @@
 <h1>JEREMY SHAW</h1>
 <h2>Phase Shifting Index</h2>
-<img src="medias/oeuvre_complete.png" width="800">
+<img src="medias/expo.png">
 Fonderie Darling <br>
 745 Rue Ottawa, Montréal QC H3C 1R8 <br>
 //(PHOTO DEVANT LE BUILDING)//
