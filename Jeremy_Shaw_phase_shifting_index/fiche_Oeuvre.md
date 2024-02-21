@@ -27,3 +27,8 @@ L'oeuvre est composée de plusieurs documentaires filmés et projetés sur des �
 <h1>ÉLÉMENTS NÉCESSAIRES À LA MISE EN EXPOSITION</h1>
 Les écrans de projections ainsi que les lumières étaient des éléments nécessaires à la mise en exposition de l'oeuvre. <br>
 <br>
+<h1>EXPÉRIENCE VÉCUE</h1>
+L'oeuvre à laquelle nous avons été exposés ne m'a certainement pas laissée indifférente. J'ai spécialement apprécié l'approche sur les idéologies du passé et celles du présent. Je pense que cet expérience nous fait beaucoup réfléchir et nous poser certaines questions. J'ai aussi aimé comment l'oeuvre a été présentée, le fait de disperser les différentes composantes de celle-ci afin de nous faire déplacer pour les voir une à une. J'ai trouvé que cela nous donnait un rapport plus personnel avec l'oeuvre.<br>
+<br>
+<h1>POINTS NÉGATIFS</h1>
+Les points négatifs auxquels je ferai référence sont uniquement basés sur mon opinion personnel. Je n'ai personnellement pas apprécié le jeu de lumière où tous les écrans se mettent à ("flasher") faire des éclas de lumière en même temps, cela m'a donné extrêmement mal à la tête. Je suis également très sensible à certains mouvements, donc lorsqu'il y a eu des jeux de couleurs qui bougeaient de façon étrange et se mélangeaient, cela m'a donné le ("motion sickness") mal de coeur instantanément. Évidemment, je suis consciente que beaucoup d'entre nous n'ont pas eu ce problème et que ce n'est que personnel à moi-même donc je reste subjective.
