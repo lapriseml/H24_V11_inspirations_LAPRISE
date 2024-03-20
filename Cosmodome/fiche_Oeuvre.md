@@ -2,7 +2,7 @@
 <h2>Mission virtuelle: Le Rêve Impossible</h2>
 <img src="medias/affiche_reve_impossible.PNG" width="300">
 Source: 
-[Cosmodôme](https://cosmodome.org/activites-familiale/missions-virtuelles/)
+<https://cosmodome.org/activites-familiale/missions-virtuelles/>
 <br>
 <br>
 <ins>Lieu de la visite:</ins> <br>
