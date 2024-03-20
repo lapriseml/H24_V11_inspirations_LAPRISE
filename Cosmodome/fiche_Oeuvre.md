@@ -3,5 +3,6 @@
 <img src="medias/affiche_reve_impossible.PNG" width="300">
 Source: [Cosmodôme](https://cosmodome.org/activites-familiale/missions-virtuelles/)
 <br>
-Cosmodôme
+<br>
+Cosmodôme <br>
 2150 Autoroute des Laurentides, Laval, Qc, Canada
