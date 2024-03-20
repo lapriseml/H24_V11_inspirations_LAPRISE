@@ -11,5 +11,4 @@ Source: [Cosmodôme](https://cosmodome.org/activites-familiale/missions-virtuell
 
 ![Moi Mouhmoud Manu Cosmodome](medias/moi_mouhmoud_manu_cosmodome.png)
 
-**Date de la visite:**  
-*7/3/24*
+**Date de la visite:** *7/3/24*
