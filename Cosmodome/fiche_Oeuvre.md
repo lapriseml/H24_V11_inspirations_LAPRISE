@@ -6,6 +6,7 @@ Source: [Cosmodôme](https://cosmodome.org/activites-familiale/missions-virtuell
 
 ## Lieu de la visite:  
 **Cosmodôme**
+
 *2150 Autoroute des Laurentides, Laval, Qc, Canada*
 
 ![Moi Mouhmoud Manu Cosmodome](medias/moi_mouhmoud_manu_cosmodome.png)
