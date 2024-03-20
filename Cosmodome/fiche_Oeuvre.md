@@ -6,5 +6,4 @@ Source: [Cosmodôme](https://cosmodome.org/activites-familiale/missions-virtuell
 <br>
 Cosmodôme <br>
 2150 Autoroute des Laurentides, Laval, Qc, Canada <br>
-<img src="medias/moi_mouhmoud_manu_cosmodome.png" width="200">
-<img src="medias/moi_mouhmoud_manu_auto.png" width="200">
+<img src="medias/moi_mouhmoud_manu_cosmodome.png" width="500">
