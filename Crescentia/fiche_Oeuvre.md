@@ -16,13 +16,13 @@ Source: [TIM - Collège Montmorency](https://tim-montmorency.com/2024/)
 
 **Nom de l'artiste:** *Élèves finissants du programme TIM*
 
-**Type d'exposition:** *Intéractive*
+**Type d'exposition:** *Intérieure*
 
-**Année de réalisation:**
+**Année de réalisation:** *2024*
 
-**Type d'installation:**
+**Type d'installation:** *Intéractive*
 
-**Fonction du dispositif multimédia:**
+**Fonction du dispositif multimédia:** *Support pédagogique*
 
 ## Description de l'oeuvre
 
