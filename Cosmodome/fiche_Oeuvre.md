@@ -39,9 +39,13 @@ Finalement, la dernière pièce ressemble grandement à la première, où une de
 
 ## Mise en espace
 
+La première et la dernière pièce sont conçues de bancs faisant la largeur de la pièce, ainsi que d'un écran faisant également la largeur de la pièce, permettant de nous jouer la vidéo.
 
+Les autres pièces sont conçues de tables et de petits écrans nous permettant d'intéragir avec les jeux mis en place.
 
 ## Composantes et techniques
+
+
 
 ## Éléments nécessaires à la mise en exposition
 
