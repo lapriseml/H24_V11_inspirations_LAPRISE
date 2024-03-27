@@ -51,6 +51,8 @@ Il y a également tous les écrans, intéractifs ou non qui sont utilisés comme
 
 ## Éléments nécessaires à la mise en exposition
 
-
+Les écrans, les projecteurs, les lumières et les bancs sont tous des éléments nécessaires à la mise en exposition.
 
 ## Expérience vécue
+
+J'ai beaucoup apprécié mon expérience. Je suis déjà passionnée par l'astronomie alors j'ai surtout apprécié les vidéos documentant toute l'aventure de l'atterrissage sur la lune. J'ai aussi apprécié la façon dont les vidéos ont été narratées, j'ai vraiment été plongée dans l'émotion lorsqu'ils ont parlé des échecs menant à la mort de beaucoup d'astronautes. J'ai aussi bien apprécié les jeux, je trouve que c'était amusant de devenir en charge de toute cette aventure. Le seul point négatif que j'aurais à donner serait que certains jeux étaient trop courts pour les 10 minutes que nous devions passer dans la pièce. Par exemple, le jeu où nous devions faire atterrir la fusée sur la lune, un essai nous prenait environ 30 secondes. J'ai donc trouvé cela un peu long de refaire le même jeu 20 fois...
