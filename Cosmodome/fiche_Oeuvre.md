@@ -15,11 +15,16 @@ Source: [Cosmodôme](https://cosmodome.org/activites-familiale/missions-virtuell
 
 ## Informations
 
-**Type d'exposition:**
-**Titre de l'oeuvre:**
-**Nom de l'artiste:**
-**Année de réalisation:**
-**Type d'installation:**
+**Titre de l'oeuvre:** *Le Rêve Impossible*
+
+**Nom de l'artiste:** *Cosmodôme*
+
+**Type d'exposition:** *Intérieure*
+
+**Année de réalisation:** *2024?*
+
+**Type d'installation:** *Interactive*
+
 **Fonction du dispositif multimédia:** *Support pédagogique*
 
 ## Description de l'oeuvre
