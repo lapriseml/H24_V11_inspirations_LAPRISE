@@ -1,25 +1,28 @@
 # Crescentia
-![Affiche Crescentia](medias/affiche_reve_impossible.PNG)
+![Affiche Crescentia](medias/crescentia.PNG)
 
-Source: [Cosmodôme](https://cosmodome.org/activites-familiale/missions-virtuelles/)
+Source: [TIM - Collège Montmorency](https://tim-montmorency.com/2024/)
 
 ## Lieu de la visite:  
-**Cosmodôme**
+**Collège Montmorency**
 
-*2150 Autoroute des Laurentides, Laval, Qc, Canada*
+*475 Boul De L'avenir, Laval, Qc, Canada*
 
-![Moi Mouhmoud Manu Cosmodome](medias/moi_mouhmoud_manu_cosmodome.png)
-
-**Date de la visite:** *7/3/24*
+**Dates des visites:** *21/23/24 et 13/3/24*
 
 ## Informations
 
-**Type d'exposition:**
-**Titre de l'oeuvre:**
-**Nom de l'artiste:**
+**Titre de l'oeuvre:** *Crescentia - Cosmique, Kigo, Papillon, Rhizomatique, Sonalux*
+
+**Nom de l'artiste:** *Élèves finissants du programme TIM*
+
+**Type d'exposition:** *Intéractive*
+
 **Année de réalisation:**
+
 **Type d'installation:**
-**Fonction du dispositif multimédia:** *Support pédagogique*
+
+**Fonction du dispositif multimédia:**
 
 ## Description de l'oeuvre
 
