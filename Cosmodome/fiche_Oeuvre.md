@@ -41,12 +41,16 @@ Finalement, la dernière pièce ressemble grandement à la première, où une de
 
 La première et la dernière pièce sont conçues de bancs faisant la largeur de la pièce, ainsi que d'un écran faisant également la largeur de la pièce, permettant de nous jouer la vidéo.
 
-Les autres pièces sont conçues de tables et de petits écrans nous permettant d'intéragir avec les jeux mis en place.
+Les autres pièces sont conçues de tables intéractives et de petits écrans nous permettant d'intéragir avec les jeux mis en place.
 
 ## Composantes et techniques
 
+Chacun des participants reçoivent un bracelet qui nous permettent de nous créer des avatars pour les jeux. En équipe de deux, nous nous choisissons une planète et lorsque vient le temps de jouer, nous scannons nos bracelets pour nous identifier.
 
+Il y a également tous les écrans, intéractifs ou non qui sont utilisés comme technique de projection ou intéraction.
 
 ## Éléments nécessaires à la mise en exposition
+
+
 
 ## Expérience vécue
