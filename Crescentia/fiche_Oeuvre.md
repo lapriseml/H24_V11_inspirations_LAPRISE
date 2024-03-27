@@ -1,6 +1,5 @@
 # Crescentia
-## Mission virtuelle: Le Rêve Impossible
-![Affiche Rêve Impossible](medias/affiche_reve_impossible.PNG)
+![Affiche Crescentia](medias/affiche_reve_impossible.PNG)
 
 Source: [Cosmodôme](https://cosmodome.org/activites-familiale/missions-virtuelles/)
 
