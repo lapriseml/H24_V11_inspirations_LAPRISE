@@ -12,7 +12,7 @@ Source: [TIM - Collège Montmorency](https://tim-montmorency.com/2024/)
 
 ## Informations
 
-**Titre de l'oeuvre:** *Crescentia - Cosmique, Kigo, Papillon, Rhizomatique, Sonalux*
+**Titre de l'oeuvre:** *Crescentia - Papillon*
 
 **Nom de l'artiste:** *Élèves finissants du programme TIM*
 
