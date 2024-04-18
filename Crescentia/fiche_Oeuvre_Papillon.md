@@ -15,6 +15,8 @@ Source: [TIM - Collège Montmorency](https://tim-montmorency.com/2024/)
 
 **Titre de l'oeuvre:** *Crescentia - Papillon*
 
+<img src="medias/papillon.png" alt="Cosmique" style="width:300px;">
+
 **Nom de l'artiste:** *Élèves finissants du programme TIM*
 
 **Type d'exposition:** *Intérieure*
