@@ -1,5 +1,6 @@
 # Crescentia
-![Affiche Crescentia](medias/crescentia.PNG)
+
+<img src="medias/crescentia.PNG" alt="Crescentia" style="width:600px;">
 
 Source: [TIM - Collège Montmorency](https://tim-montmorency.com/2024/)
 
