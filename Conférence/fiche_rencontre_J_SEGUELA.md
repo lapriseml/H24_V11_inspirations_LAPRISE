@@ -8,6 +8,7 @@ Dans le cadre de notre technique, nous avons assisté à une conférence donnée
 <img src="medias/rafael.png/" style="width:300px;">
 Source: [Rafael Lozano-Hemmer Bio](https://www.lozano-hemmer.com/bio.php)
 
+
 Rafael Lozano-Hemmer, l'artiste principal du Studio Antimodular, désire concevoir des dispositifs intéractifs avec son public. Comme il le dit lui-même: *"Beaucoup de mes oeuvres sont activées par des caméras, des capteurs ou des microphones qui captent l'activité du public, et cela devient alors l'oeuvre d'art elle-même. Donc si vous n'avez pas de public, il n'y a rien à montrer."*
 
 ## L'oeuvre
