@@ -15,4 +15,8 @@ Le Studio Antimodular a été conçu en 2003 et compte une équipe de 26 personn
 
 <img src="medias/equipe.png" alt="Cosmique" style="width:300px;">
 
+## Documentation
+Mme Seguela nous explique aussi en quoi son poste de registraire consiste. En tant que registraire, elle s'occupe de tout ce qui concerne le transport des dispositifs de pays en pays. Elle nous explique l'importance de la documentation avant d'envoyer les différents composants outre mer.
+
+
 ## Conclusion
