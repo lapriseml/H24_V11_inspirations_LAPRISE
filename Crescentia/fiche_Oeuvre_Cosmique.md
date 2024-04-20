@@ -28,6 +28,7 @@ Source: [TIM - Collège Montmorency](https://tim-montmorency.com/2024/)
 **Fonction du dispositif multimédia:** *Support pédagogique*
 
 ## Description de l'oeuvre
+*Cosmique* est une oeuvre composée d'une table sur laquelle reposent des 5 statuettes. Ces 5 statuettes représentent un évènement spacial différent (ex: éruption solaire). Au centre de la table se trouve une projection d'un soleil. Lorsqu'une des statuettes est bougée sur la table, l'évènement auquel il correspond apparaît sur l'écran en face de la table.
 
 ## Mise en espace
 
