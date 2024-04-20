@@ -29,3 +29,4 @@ Mme Seguela nous a également fait part des enjeux rencontrés lors d'une des ex
 <img src="medias/enjeux.png" style="width:300px;">
 
 # Conclusion
+En conclusion, j'ai bien aimé cette conférence, je trouve que les informaions partagées étaient très pertinentes pour ceux d'entre nous qui voudront aller dans ce domaine plus tard. J'ai beacoup aimé le fait qu'on ne nous montre pas seulement la partie plaisante ou uniquement le résultat final mais vraiment l'ensemble du déroulement du début à la fin avec tous les enjeux rencontrés, cela nous permet de déjà nous faire une idée de ce que nos projets futur auront l'air.
