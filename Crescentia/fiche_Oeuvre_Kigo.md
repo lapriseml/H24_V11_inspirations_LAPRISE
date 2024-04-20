@@ -1,6 +1,6 @@
 # Crescentia
 
-<img src="medias/crescentia.PNG" alt="Crescentia" style="width:600px;">
+<img src="medias/crescentia.PNG" style="width:600px;">
 
 Source: [TIM - Collège Montmorency](https://tim-montmorency.com/2024/)
 
@@ -15,7 +15,7 @@ Source: [TIM - Collège Montmorency](https://tim-montmorency.com/2024/)
 
 **Titre de l'oeuvre:** *Crescentia - Kigo*
 
-<img src="medias/kigo.png" alt="Cosmique" style="width:300px;">
+<img src="medias/kigo.png" style="width:300px;">
 
 **Nom de l'artiste:** *Élèves finissants du programme TIM*
 
