@@ -20,4 +20,9 @@ Mme Seguela nous explique aussi en quoi son poste de registraire consiste. En ta
 
 <img src="medias/documentation.png" style="width:300px;"> <img src="medias/composants.png" style="width:300px;">
 
-## Conclusion
+## Enjeux
+Mme Seguela nous a également fait part des enjeux rencontrés lors d'une des expositions en Abou Dabi. En effet, transporter une oeuvre multimédia dans le désert, plus difficile que ce que l'on pense ! Et oui, avec la chaleur, le sable, la pluie et les insectes, il me semble presqu'impossible de monter une oeuvre multimédia à l'extérieur mais Mme Seguela m'a prouvé le contraire ! Elle et son équipe ont réussi à surmonter tous ces enjeux et avoir son oeuvre prête à être présentée à temps.
+
+<img src="medias/enjeux.png" style="width:300px;">
+
+# Conclusion
