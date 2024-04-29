@@ -32,6 +32,7 @@ Source: [TIM - Collège Montmorency](https://tim-montmorency.com/2024/)
 ## Mise en espace
 
 ## Composantes et techniques
+Pour Rhizomatique, les composantes étaient majoritairement des haut-parleurs, une kinect, des cables, un ordinateur et des projecteurs.
 
 ## Éléments nécessaires à la mise en exposition
 
