@@ -31,7 +31,7 @@ Source: [TIM - Collège Montmorency](https://tim-montmorency.com/2024/)
 Rhizomatique est une oeuvre qui explore les souvenirs du cerveau humain. Celui-ci est représenté par une toile. Lorsque cette toile est touchée, des souvenirs sont projetés sur l'écran en face de nous.
 
 ## Mise en espace
-
+Rhizomatique était situé dans le grand studio, dans le cyclorama. L'oeuvre prenait toute la largeur du cyclorama.
 
 ## Composantes et techniques
 Pour Rhizomatique, les composantes étaient majoritairement des haut-parleurs, une kinect, des cables, un ordinateur et des projecteurs.
