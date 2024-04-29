@@ -34,8 +34,10 @@ Papillon est une oeuvre représentant le cycle de vie d'un arbre, plus précisé
 Papillon était située dans le petit studio et occupait sa largeur au complet car cette oeuvre avait beaucoup plus de matériel que toutes les autres oeuvres.
 
 ## Composantes et techniques
-Pour Rhizomatique, les composantes étaient majoritairement des haut-parleurs, une kinect, des cables, un ordinateur et des projecteurs.
+Pour Papillon, les composantes étaient majoritairement des haut-parleurs, des petits écrans, beaucoup de cables et un ordinateur.
 
 ## Éléments nécessaires à la mise en exposition
+Beaucoup d'éléments étaient présents dans la pièce. Des écrans composants le corps de l'arbres, où nous était projeté des vidéos du cycle de vie de l'arbre lorsque certains éléments étaient manipulés, une valve, des boutons, une ampoule, etc.
 
 ## Expérience vécue
+J'ai apprécié cette oeuvre car j'ai beaucoup aimé le concept, toutefois, elle me rendait très confuse. Je ne savais pas par où commencer, quel objet toucher, quel objet ne pas toucher, où regarder lorsque je touchais un objet... Je pense que cette oeuvre aurait eu besoin de plus d'encadrement pour guider le spectateur dans son aventure. Comme l'oeuvre prenait beaucoup d'espace, il était difficile de ne pas se perdre parmi toutes ses composantes.
