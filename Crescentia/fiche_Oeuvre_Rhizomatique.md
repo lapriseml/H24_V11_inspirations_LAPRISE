@@ -30,6 +30,8 @@ Source: [TIM - Collège Montmorency](https://tim-montmorency.com/2024/)
 ## Description de l'oeuvre
 Rhizomatique est une oeuvre qui explore les souvenirs du cerveau humain. Celui-ci est représenté par une toile. Lorsque cette toile est touchée, des souvenirs sont projetés sur l'écran en face de nous.
 
+<img src="medias/rhizomatique1_resultat.png" style="width:300px;">
+
 ## Mise en espace
 Rhizomatique était situé dans le grand studio, dans le cyclorama. L'oeuvre prenait toute la largeur du cyclorama.
 
@@ -42,4 +44,7 @@ Pour Rhizomatique, les composantes étaient majoritairement des haut-parleurs, u
 ## Éléments nécessaires à la mise en exposition
 Les éléments nécessaires à la mise en exposition pour Rhizomatique était une toile, une structure pour tenir la toile ainsi que le cyclorama situé dans le grand studio.
 
+<img src="medias/rhizomatique1_table.png" style="width:300px;">
+
 ## Expérience vécue
+Je n'ai pas spécialement apprécié cette oeuvre car je trouve que ça devenait très redondant rapidement. L'intérêt est présent au début mais une fois que la toile est touchée une fois, on perd de l'intérêt rapidement. La qualité de la projection était aussi très mauvaise, ce qui peut être expliqué par l'endroit où l'oeuvre était situé mais je trouve que dû à cette mauvaise qualité de projection, l'oeuvre perdait aussi de la valeur. J'aime l'idée derrière l'oeuvre, je la trouve très intéressante mais ce n'est pas de cette façon que je l'aurais exploitée.
