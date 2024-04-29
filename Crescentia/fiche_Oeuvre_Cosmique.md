@@ -30,7 +30,7 @@ Source: [TIM - Collège Montmorency](https://tim-montmorency.com/2024/)
 ## Description de l'oeuvre
 Cosmique est une oeuvre composée d'une table sur laquelle reposent des 5 statuettes. Ces 5 statuettes représentent un évènement spacial différent (ex: éruption solaire). Au centre de la table se trouve une projection d'un soleil. Lorsqu'une des statuettes est bougée sur la table, l'évènement auquel il correspond apparaît sur l'écran en face de la table et réagit avec ou autour du soleil.
 
-<img src="medias/cosmique2_resultat.png" style="width:300px;"> <img src="medias/cosmique2_resultat.png" style="width:300px;">
+<img src="medias/cosmique2_resultat_1.png" style="width:300px;"> <img src="medias/cosmique2_table_2_statuettes.png" style="width:300px;">
 
 ## Mise en espace
 Cosmique était situé directement devant la porte du grand studio. Cette oeuvre ne prenait pas beaucoup d'espace et donc était positionné dans le coin.
