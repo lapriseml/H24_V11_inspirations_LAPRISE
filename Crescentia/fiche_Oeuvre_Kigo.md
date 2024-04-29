@@ -28,8 +28,10 @@ Source: [TIM - Collège Montmorency](https://tim-montmorency.com/2024/)
 **Fonction du dispositif multimédia:** *Support pédagogique*
 
 ## Description de l'oeuvre
+Kigo est un jeu vidéo où nous devons jouer avec notre corps. Nous devons éviter des obstacles ainsi qu'accumuler des points. Nous pouvons jouer en équipe de deux ou seul.
 
 ## Mise en espace
+Kigo était positionné vis à vis le mur gauche du grand studio. Comme l'oeuvre prenait beaucoup de place, la majorité du mur lui était accordé ainsi qu'une plateforme désignée au sol où les spectateurs se plaçaient pour jouer.
 
 ## Composantes et techniques
 
