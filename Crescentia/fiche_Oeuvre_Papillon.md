@@ -30,11 +30,14 @@ Source: [TIM - Collège Montmorency](https://tim-montmorency.com/2024/)
 ## Description de l'oeuvre
 Papillon est une oeuvre représentant le cycle de vie d'un arbre, plus précisément, d'un pommier. Les spéctateurs sont encouragés à toucher et manipuler tous les composantes manipulables dans la pièce afin de découvrir les conséquences de chacune des actions présentées.
 
+<img src="medias/papillon1_vue_globale.png" style="width:300px;">
+
 ## Mise en espace
 Papillon était située dans le petit studio et occupait sa largeur au complet car cette oeuvre avait beaucoup plus de matériel que toutes les autres oeuvres.
 
 ## Composantes et techniques
 Pour Papillon, les composantes étaient majoritairement des haut-parleurs, des petits écrans, beaucoup de cables et un ordinateur.
+<img src="medias/papillon2_composants.png" style="width:300px;"> <img src="medias/papillon2_accessoire_interactif.png" style="width:300px;">
 
 ## Éléments nécessaires à la mise en exposition
 Beaucoup d'éléments étaient présents dans la pièce. Des écrans composants le corps de l'arbres, où nous était projeté des vidéos du cycle de vie de l'arbre lorsque certains éléments étaient manipulés, une valve, des boutons, une ampoule, etc.
