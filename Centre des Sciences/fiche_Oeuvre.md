@@ -1,6 +1,6 @@
 # Centre Des Sciences
 
-<img src="medias/" style="width:300px;">
+<img src="medias/centre_des_sciences.PNG" style="width:300px;">
 
 ## Lieu de la visite:  
 **Centre Des Sciences**
