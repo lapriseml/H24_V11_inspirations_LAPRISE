@@ -28,8 +28,10 @@ Source: [TIM - Collège Montmorency](https://tim-montmorency.com/2024/)
 **Fonction du dispositif multimédia:** *Support pédagogique*
 
 ## Description de l'oeuvre
+Sonalux est une oeuvre qui nous fait découvrir le monde de l'audio. Nous étions encouragés à controler via une console, tous les différents sons entendus.
 
 ## Mise en espace
+Sonalux était situé sur le mur droit du grand studio.
 
 ## Composantes et techniques
 Pour Rhizomatique, les composantes étaient majoritairement des haut-parleurs, une kinect, des cables, un ordinateur et des projecteurs.
