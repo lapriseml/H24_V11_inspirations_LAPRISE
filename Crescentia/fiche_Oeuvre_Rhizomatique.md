@@ -38,8 +38,7 @@ Rhizomatique était situé dans le grand studio, dans le cyclorama. L'oeuvre pre
 ## Composantes et techniques
 Pour Rhizomatique, les composantes étaient majoritairement des haut-parleurs, une kinect, des cables, un ordinateur et des projecteurs.
 
-<img src="medias/rhizomatique2_composants.png" style="width:300px;">
-<img src="medias/rhizomatique2_composants_projecteurs.png" style="width:300px;">
+<img src="medias/rhizomatique2_composants.png" style="width:300px;"> <img src="medias/rhizomatique2_composants_projecteurs.png" style="width:300px;">
 
 ## Éléments nécessaires à la mise en exposition
 Les éléments nécessaires à la mise en exposition pour Rhizomatique était une toile, une structure pour tenir la toile ainsi que le cyclorama situé dans le grand studio.
