@@ -37,5 +37,7 @@ Cosmique était situé directement devant la porte du grand studio. Cette oeuvre
 Pour Cosmique, les composantes étaient majoritairement des haut-parleurs, une switch, des cables, un ordinateur et des projecteurs.
 
 ## Éléments nécessaires à la mise en exposition
+Les éléments nécessaires à la mise en exposition de cette oeuvre était une table où reposaient les statuettes ainsi qu'une toile sur laquelle projetaient les animations astronomiques.
 
 ## Expérience vécue
+J'ai beaucoup apprécié cette oeuvre. C'était de loin ma favorite. Étant passionnée par l'astronomie, les évènements de ce genre m'ont toujours fascinée et je trouve que la qualité visuelle et sonore étaient excellentes. J'ai beaucoup aimé la façon dont les élèves ont exploité leur concept.
