@@ -35,6 +35,8 @@ La première pièce ressemble à une très petite salle de cinéma, nous nous as
 
 Les 4 pièces suivantes consistent de jeux intéractifs où nous devenons en charge de toute la procédure avant, pendant et après l'atterrissage sur la lune.
 
+<img src="medias/jeu_interactif.png" style="width:300px;">
+
 Finalement, la dernière pièce ressemble grandement à la première, où une dernière vidéo nous présente le parcours jusqu'à la lune, ainsi que tous les échecs, menant à la mort tragique de plusieurs astronautes.
 
 ## Mise en espace
