@@ -1,21 +1,19 @@
-# Cosmodôme
-## Mission virtuelle: Le Rêve Impossible
-<img src="medias/affiche_reve_impossible.PNG" style="width:300px;">
+# Centre Des Sciences
 
-Source: [Cosmodôme](https://cosmodome.org/activites-familiale/missions-virtuelles/)
+<img src="medias/" style="width:300px;">
 
 ## Lieu de la visite:  
-**Cosmodôme**
+**Centre Des Sciences**
 
-*2150 Autoroute des Laurentides, Laval, Qc, Canada*
+*2 Rue de la Commune O, Montréal, Qc, Canada*
 
-**Date de la visite:** *7/3/24*
+**Date de la visite:** *10/4/24*
 
 ## Informations
 
-**Titre de l'oeuvre:** *Le Rêve Impossible*
+**Titre de l'oeuvre:** *Intelligente, la conduite?*
 
-**Nom de l'artiste:** *Cosmodôme*
+**Nom de l'artiste:** *Ubisoft*
 
 **Type d'exposition:** *Intérieure*
 
@@ -23,15 +21,14 @@ Source: [Cosmodôme](https://cosmodome.org/activites-familiale/missions-virtuell
 
 **Type d'installation:** *Interactive*
 
-**Fonction du dispositif multimédia:** *Support pédagogique*
 
 ## Description de l'oeuvre
 
-
+*Intelligente, la conduite?* est une oeuvre interactive qui nous fait explorer le monde de la conduite. Nous sommes apportés à choisir la voiture et les commandes désirées, et lorsque le jeu commence, la voiture conduit seule, selon les réglages choisis au début. Lorsque la voiture s'arrête et a fini de conduire, un commentaire "style de conduite" nous est attribué. Le but de cette oeuvre est de récompenser la bonne conduite et décourager la mauvaise. 
 
 ## Mise en espace
 
-
+Cette oeuvre est située dans une pièce fermée au milieu d'une grande salle du Centre des Sciences.
 
 ## Composantes et techniques
 
