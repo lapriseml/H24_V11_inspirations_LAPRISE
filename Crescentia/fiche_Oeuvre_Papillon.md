@@ -28,8 +28,10 @@ Source: [TIM - Collège Montmorency](https://tim-montmorency.com/2024/)
 **Fonction du dispositif multimédia:** *Support pédagogique*
 
 ## Description de l'oeuvre
+Papillon est une oeuvre représentant le cycle de vie d'un arbre, plus précisément, d'un pommier. Les spéctateurs sont encouragés à toucher et manipuler tous les composantes manipulables dans la pièce afin de découvrir les conséquences de chacune des actions présentées.
 
 ## Mise en espace
+Papillon était située dans le petit studio et occupait sa largeur au complet car cette oeuvre avait beaucoup plus de matériel que toutes les autres oeuvres.
 
 ## Composantes et techniques
 
