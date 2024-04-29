@@ -1,6 +1,8 @@
 # Centre Des Sciences
 
-<img src="medias/centre_des_sciences.PNG" style="width:300px;">
+<img src="medias/centre_des_sciences.PNG" style="width:600px;">
+
+Source: [Centre des Sciences](https://www.centredessciencesdemontreal.com/)
 
 ## Lieu de la visite:  
 **Centre Des Sciences**
