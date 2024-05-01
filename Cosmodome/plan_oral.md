@@ -30,7 +30,7 @@ bracelets, écrans
 ## Éléments:
 écrans, projecteurs, lumières, bancs
 
-*Expérience vécue*
+## Expérience vécue
 
 ## Liens avec autres oeuvres, dispositifs et expériences multimédias découverts cette session:
 écran intéractif jeu de voiture centre des sciences, table intéractive crescentia/cosmique, écrans projecteurs jeremy shaw
