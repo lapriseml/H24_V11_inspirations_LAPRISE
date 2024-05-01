@@ -30,12 +30,16 @@ Source: [Cosmodôme](https://cosmodome.org/activites-familiale/missions-virtuell
 ## Description de l'oeuvre
 
 Le Rêve Impossible est une oeuvre immersive qui nous plonge dans l'aventure de la première visite sur la Lune en 1969. L'activité se déroule dans 6 pièces différentes et nous restons dans chacune des pièces pendant 10 minutes.
+Lorsque les 10 minutes sont écoulées, une porte se trouve dans le fond de chaque pièce et une lumière s'allume pour aviser qu'il est temps de passer à la pièce suivante.
 
 La première pièce ressemble à une très petite salle de cinéma, nous nous asseyons et une vidéo de 10 minutes nous présente la phase de préparation précédent le départ officiel sur la lune. On nous montre même les fois où les tentatives ont échoué.
+On explore tout le développement de construction de fusée, les démarches mathématiques, les contraintes, etc.
 
 <img src="medias/astronaute_lune.png" style="width:300px;">
 
 Les 4 pièces suivantes consistent de jeux intéractifs où nous devenons en charge de toute la procédure avant, pendant et après l'atterrissage sur la lune.
+ex: Un des jeux consistait à identifier certains composants d'une fusée. Nous devions donc trouver la bonne réponse parmi celles affichées sur les écrans intéractifs se trouvant sur les murs, scanner la question sur la table intéractive à l'aide de nos bracelets et scanner la bonne réponse avec nos bracelets afin de la valider.
+Un autre des jeux consistait à réussir à faire un attérissage parfait d'une fusée sur la lune, nous devions calculer la vitesse, la force du moteur, le niveau d'essence et la distance à parcourir.
 
 <img src="medias/pollux_maryjane_emma.png" style="width:300px;"> <img src="medias/jeu_interactif.png" style="width:300px;"> <img src="medias/bellatrix_mahmoud.png" style="width:300px;">
 
@@ -51,9 +55,9 @@ Les autres pièces sont conçues de tables intéractives et de petits écrans no
 
 ## Composantes et techniques
 
-Chacun des participants reçoivent un bracelet qui nous permettent de nous créer des avatars pour les jeux. En équipe de deux, nous nous choisissons une planète et lorsque vient le temps de jouer, nous scannons nos bracelets pour nous identifier.
+Chacun des participants reçoit un bracelet qui nous permet de nous créer des avatars pour les jeux. En équipe de deux, nous nous choisissons une planète et lorsque vient le temps de jouer, nous scannons nos bracelets pour nous identifier.
 
-Il y a également tous les écrans, intéractifs ou non qui sont utilisés comme technique de projection ou intéraction.
+Il y a également tous les écrans, intéractifs ou non qui sont utilisés comme technique de projection ou d'intéraction.
 
 ## Éléments nécessaires à la mise en exposition
 
