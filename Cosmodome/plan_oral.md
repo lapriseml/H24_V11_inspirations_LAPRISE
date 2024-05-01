@@ -35,6 +35,6 @@ bracelets, écrans
 
 # CONCLUSION
 
-# Rappel éléments présentés
-# Ouverture : élément inspirant retenu parmi toutes les oeuvres, dispositfs et expériences de la session:
+## Rappel éléments présentés
+## Ouverture : élément inspirant retenu parmi toutes les oeuvres, dispositfs et expériences de la session:
 mon préféré <3 (pourquoi)
