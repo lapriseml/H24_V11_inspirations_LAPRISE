@@ -27,6 +27,8 @@ oeuvre immersive qui nous plonge dans l'aventure de la première visite sur la L
 première/dernière pièce: bancs et écran faisant la largeur de la pièce, autres pièces: tables intéractives et petits écrans
 ## Composants:
 bracelets, écrans
+## Éléments:
+écrans, projecteurs, lumières, bancs
 
 *Expérience vécue*
 
